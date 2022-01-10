@@ -44,7 +44,7 @@ a:active {
 
 /*Box Model*/
 .container {
-    max-width: 70%;
+    max-width: 800px;
     margin: auto;
 }
 
@@ -101,4 +101,8 @@ h2 {
 
 .myname {
     margin: 15px 40px;
+}
+
+.itinc {
+    margin-top: 10px;
 }
